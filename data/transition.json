@@ -1,0 +1,70 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u646000396",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"masterVol" : [ 0.0 ],
+					"posHLine" : [ 0.5 ],
+					"posHWave" : [ 0.0 ],
+					"bgCol" : [ 0 ],
+					"waveCol" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"masterVol" : [ 0.0 ],
+					"posHLine" : [ 1.0 ],
+					"posHWave" : [ 0.0 ],
+					"bgCol" : [ 100 ],
+					"waveCol" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"masterVol" : [ 0.5 ],
+					"posHLine" : [ 2.0 ],
+					"posHWave" : [ 0.0 ],
+					"bgCol" : [ 255 ],
+					"waveCol" : [ 255 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"masterVol" : [ 1.0 ],
+					"posHLine" : [ 2.0 ],
+					"posHWave" : [ 0.5 ],
+					"bgCol" : [ 255 ],
+					"waveCol" : [ 255 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"name" : "5",
+				"data" : 				{
+					"masterVol" : [ 0.0 ],
+					"posHLine" : [ 2.0 ],
+					"posHWave" : [ 0.5 ],
+					"bgCol" : [ 50 ],
+					"waveCol" : [ 50 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
