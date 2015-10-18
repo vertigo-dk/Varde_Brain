@@ -1,15 +1,18 @@
 {
 	"pattrstorage" : 	{
-		"name" : "u646000396",
+		"name" : "u233001933",
 		"slots" : 		{
 			"1" : 			{
 				"id" : 1,
 				"data" : 				{
 					"masterVol" : [ 0.0 ],
-					"posHLine" : [ 0.5 ],
-					"posHWave" : [ 0.0 ],
 					"bgCol" : [ 0 ],
-					"waveCol" : [ 0 ]
+					"waveCol" : [ 0 ],
+					"posHLinePoles" : [ 0.5 ],
+					"posHWaveRamp[1]" : [ 0.5 ],
+					"posHWaveRamp" : [ 0.0 ],
+					"posHWavePoles" : [ 0.0 ],
+					"intensityBlink" : [ 0.0 ]
 				}
 
 			}
@@ -18,10 +21,13 @@
 				"id" : 2,
 				"data" : 				{
 					"masterVol" : [ 0.0 ],
-					"posHLine" : [ 1.0 ],
-					"posHWave" : [ 0.0 ],
 					"bgCol" : [ 100 ],
-					"waveCol" : [ 0 ]
+					"waveCol" : [ 0 ],
+					"posHLinePoles" : [ 1.0 ],
+					"posHWaveRamp[1]" : [ 1.0 ],
+					"posHWaveRamp" : [ 0.0 ],
+					"posHWavePoles" : [ 0.0 ],
+					"intensityBlink" : [ 1.0 ]
 				}
 
 			}
@@ -30,10 +36,13 @@
 				"id" : 3,
 				"data" : 				{
 					"masterVol" : [ 0.5 ],
-					"posHLine" : [ 2.0 ],
-					"posHWave" : [ 0.0 ],
 					"bgCol" : [ 255 ],
-					"waveCol" : [ 255 ]
+					"waveCol" : [ 255 ],
+					"posHLinePoles" : [ 2.0 ],
+					"posHWaveRamp[1]" : [ 2.0 ],
+					"posHWaveRamp" : [ 0.0 ],
+					"posHWavePoles" : [ 0.0 ],
+					"intensityBlink" : [ 0.0 ]
 				}
 
 			}
@@ -42,23 +51,28 @@
 				"id" : 4,
 				"data" : 				{
 					"masterVol" : [ 1.0 ],
-					"posHLine" : [ 2.0 ],
-					"posHWave" : [ 0.5 ],
 					"bgCol" : [ 255 ],
-					"waveCol" : [ 255 ]
+					"waveCol" : [ 255 ],
+					"posHLinePoles" : [ 2.0 ],
+					"posHWaveRamp[1]" : [ 2.0 ],
+					"posHWaveRamp" : [ 0.5 ],
+					"posHWavePoles" : [ 0.5 ],
+					"intensityBlink" : [ 0.0 ]
 				}
 
 			}
 ,
 			"5" : 			{
 				"id" : 5,
-				"name" : "5",
 				"data" : 				{
 					"masterVol" : [ 0.0 ],
-					"posHLine" : [ 2.0 ],
-					"posHWave" : [ 0.5 ],
-					"bgCol" : [ 50 ],
-					"waveCol" : [ 50 ]
+					"bgCol" : [ 95 ],
+					"waveCol" : [ 95 ],
+					"posHLinePoles" : [ 2.0 ],
+					"posHWaveRamp[1]" : [ 2.0 ],
+					"posHWaveRamp" : [ 0.5 ],
+					"posHWavePoles" : [ 0.5 ],
+					"intensityBlink" : [ 0.0 ]
 				}
 
 			}
