@@ -2,7 +2,7 @@
 	"name" : "Varde_Brain",
 	"version" : 1,
 	"creationdate" : -767221354,
-	"modificationdate" : -767221331,
+	"modificationdate" : -765056812,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -15,10 +15,9 @@
 				"local" : 1
 			}
 ,
-			"extractTime.maxpat" : 			{
+			"impulse.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 ,
 			"getSunData.maxpat" : 			{
@@ -26,19 +25,15 @@
 				"local" : 1
 			}
 ,
-			"impulse.maxpat" : 			{
+			"extractTime.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel" : 1
 			}
 
 		}
 ,
 		"media" : 		{
-			"ColorTransition.jpg" : 			{
-				"kind" : "imagefile",
-				"local" : 1
-			}
-,
 			"ColorTransition.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
