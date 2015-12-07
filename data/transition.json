@@ -1,78 +1,597 @@
 {
 	"pattrstorage" : 	{
-		"name" : "u233001933",
+		"name" : "u306000859",
 		"slots" : 		{
-			"1" : 			{
-				"id" : 1,
+			"10" : 			{
+				"id" : 10,
 				"data" : 				{
-					"masterVol" : [ 0.0 ],
-					"bgCol" : [ 0 ],
-					"waveCol" : [ 0 ],
-					"posHLinePoles" : [ 0.5 ],
-					"posHWaveRamp[1]" : [ 0.5 ],
-					"posHWaveRamp" : [ 0.0 ],
-					"posHWavePoles" : [ 0.0 ],
-					"intensityBlink" : [ 0.0 ]
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
 				}
 
 			}
 ,
-			"2" : 			{
-				"id" : 2,
+			"11" : 			{
+				"id" : 11,
 				"data" : 				{
-					"masterVol" : [ 0.0 ],
-					"bgCol" : [ 100 ],
-					"waveCol" : [ 0 ],
-					"posHLinePoles" : [ 1.0 ],
+					"colorTopTop" : [ 0, 0, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 0 ],
+					"colorBotTop" : [ 255, 156, 232, 255 ],
+					"colorBotBot" : [ 0, 0, 145, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 173, 127, 228, 255 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 255, 156, 232, 117 ],
+					"colorBotBot" : [ 0, 0, 145, 132 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 255 ],
+					"dLinesSpeed" : [ 0.195 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"20" : 			{
+				"id" : 20,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"21" : 			{
+				"id" : 21,
+				"data" : 				{
+					"colorTopTop" : [ 0, 255, 255, 158 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 131 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 227 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.7 ],
+					"posHWaveRamp[1]" : [ 0.7 ],
+					"noiseAmt" : [ 0.16 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"22" : 			{
+				"id" : 22,
+				"data" : 				{
+					"colorTopTop" : [ 0, 255, 255, 71 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 131 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 255, 255, 100 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.7 ],
+					"posHWaveRamp[1]" : [ 0.7 ],
+					"noiseAmt" : [ 0.16 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"30" : 			{
+				"id" : 30,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"40" : 			{
+				"id" : 40,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"41" : 			{
+				"id" : 41,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 113, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 111 ],
+					"colorBotTop" : [ 0, 0, 0, 46 ],
+					"colorBotBot" : [ 0, 0, 0, 7 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 167, 0, 192 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"42" : 			{
+				"id" : 42,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 113, 143 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 111 ],
+					"colorBotTop" : [ 0, 0, 0, 46 ],
+					"colorBotBot" : [ 0, 0, 0, 7 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 167, 0, 79 ],
+					"dLinesSpeed" : [ 0.055 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"50" : 			{
+				"id" : 50,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"60" : 			{
+				"id" : 60,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"70" : 			{
+				"id" : 70,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"80" : 			{
+				"id" : 80,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"81" : 			{
+				"id" : 81,
+				"data" : 				{
+					"colorTopTop" : [ 255, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 0, 0, 255 ],
+					"colorBotTop" : [ 255, 0, 0, 255 ],
+					"colorBotBot" : [ 75, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 213 ],
+					"dLinesSpeed" : [ 0.455 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 1.0 ],
 					"posHWaveRamp[1]" : [ 1.0 ],
-					"posHWaveRamp" : [ 0.0 ],
-					"posHWavePoles" : [ 0.0 ],
-					"intensityBlink" : [ 1.0 ]
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 1.0 ]
 				}
 
 			}
 ,
-			"3" : 			{
-				"id" : 3,
+			"82" : 			{
+				"id" : 82,
 				"data" : 				{
-					"masterVol" : [ 0.5 ],
-					"bgCol" : [ 255 ],
-					"waveCol" : [ 255 ],
-					"posHLinePoles" : [ 2.0 ],
-					"posHWaveRamp[1]" : [ 2.0 ],
-					"posHWaveRamp" : [ 0.0 ],
-					"posHWavePoles" : [ 0.0 ],
-					"intensityBlink" : [ 0.0 ]
+					"colorTopTop" : [ 255, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 0, 0, 102 ],
+					"colorBotTop" : [ 255, 0, 0, 104 ],
+					"colorBotBot" : [ 75, 0, 0, 0 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 106 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 1.0 ],
+					"posHWaveRamp[1]" : [ 1.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.999 ]
 				}
 
 			}
 ,
-			"4" : 			{
-				"id" : 4,
+			"90" : 			{
+				"id" : 90,
 				"data" : 				{
-					"masterVol" : [ 1.0 ],
-					"bgCol" : [ 255 ],
-					"waveCol" : [ 255 ],
-					"posHLinePoles" : [ 2.0 ],
-					"posHWaveRamp[1]" : [ 2.0 ],
-					"posHWaveRamp" : [ 0.5 ],
-					"posHWavePoles" : [ 0.5 ],
-					"intensityBlink" : [ 0.0 ]
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
 				}
 
 			}
 ,
-			"5" : 			{
-				"id" : 5,
+			"100" : 			{
+				"id" : 100,
 				"data" : 				{
-					"masterVol" : [ 0.0 ],
-					"bgCol" : [ 95 ],
-					"waveCol" : [ 95 ],
-					"posHLinePoles" : [ 2.0 ],
-					"posHWaveRamp[1]" : [ 2.0 ],
-					"posHWaveRamp" : [ 0.5 ],
-					"posHWavePoles" : [ 0.5 ],
-					"intensityBlink" : [ 0.0 ]
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"110" : 			{
+				"id" : 110,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"120" : 			{
+				"id" : 120,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.0 ],
+					"posHLinePoles[1]" : [ 0.5 ],
+					"posHLineRamp[1]" : [ 0.5 ],
+					"posHWavePoles[1]" : [ 0.0 ],
+					"posHWaveRamp[1]" : [ 0.0 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"121" : 			{
+				"id" : 121,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 0 ],
+					"colorBotTop" : [ 255, 98, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 0 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 255 ],
+					"dLinesSpeed" : [ 0.12 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"122" : 			{
+				"id" : 122,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 0, 0, 0 ],
+					"colorBotTop" : [ 255, 22, 0, 130 ],
+					"colorBotBot" : [ 0, 0, 0, 0 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 255 ],
+					"dLinesSpeed" : [ 0.14 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
 				}
 
 			}

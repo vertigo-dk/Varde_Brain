@@ -2,7 +2,7 @@
 	"name" : "Varde_Brain",
 	"version" : 1,
 	"creationdate" : -767221354,
-	"modificationdate" : -765056812,
+	"modificationdate" : -763051851,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,6 +16,11 @@
 			}
 ,
 			"impulse.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"relayControl.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

@@ -44,7 +44,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 538.0, 126.0, 155.0, 47.0 ],
-					"presentation_rect" : [ 538.0, 124.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "switch to summertime\n25.11 is the 297 day in the year"
 				}
@@ -123,7 +122,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 441.0, 300.0, 29.5, 22.0 ],
-					"presentation_rect" : [ 441.0, 301.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "1"
 				}
@@ -138,7 +136,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 376.0, 300.0, 29.5, 22.0 ],
 					"style" : "",
-					"text" : "2"
+					"text" : "1"
 				}
 
 			}
