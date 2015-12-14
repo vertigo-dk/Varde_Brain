@@ -1,6 +1,6 @@
 {
 	"pattrstorage" : 	{
-		"name" : "u306000859",
+		"name" : "u171000573",
 		"slots" : 		{
 			"10" : 			{
 				"id" : 10,
@@ -38,7 +38,7 @@
 					"boubblesIntensity" : [ 0.0 ],
 					"boubblesVelMin" : [ 0.2 ],
 					"boubblesVelMax" : [ 1.5 ],
-					"colorTopBot" : [ 0, 0, 0, 0 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
 					"colorBotTop" : [ 255, 156, 232, 255 ],
 					"colorBotBot" : [ 0, 0, 145, 255 ],
 					"colorLine" : [ 255, 255, 255, 255 ],
@@ -551,7 +551,7 @@
 					"boubblesIntensity" : [ 0.0 ],
 					"boubblesVelMin" : [ 0.2 ],
 					"boubblesVelMax" : [ 1.5 ],
-					"colorTopBot" : [ 0, 0, 0, 0 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
 					"colorBotTop" : [ 255, 98, 0, 255 ],
 					"colorBotBot" : [ 0, 0, 0, 0 ],
 					"colorLine" : [ 255, 255, 255, 255 ],
@@ -578,7 +578,7 @@
 					"boubblesIntensity" : [ 0.0 ],
 					"boubblesVelMin" : [ 0.2 ],
 					"boubblesVelMax" : [ 1.5 ],
-					"colorTopBot" : [ 0, 0, 0, 0 ],
+					"colorTopBot" : [ 0, 0, 0, 255 ],
 					"colorBotTop" : [ 255, 22, 0, 130 ],
 					"colorBotBot" : [ 0, 0, 0, 0 ],
 					"colorLine" : [ 255, 255, 255, 255 ],
