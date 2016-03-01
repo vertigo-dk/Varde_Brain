@@ -3,13 +3,13 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 0,
-			"revision" : 6,
+			"minor" : 1,
+			"revision" : 0,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 88.0, 129.0, 640.0, 480.0 ],
+		"rect" : [ 88.0, 129.0, 852.0, 530.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -38,6 +38,32 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-21",
+					"linecount" : 7,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 539.0, 205.0, 150.0, 100.0 ],
+					"style" : "",
+					"text" : "calculate day: http://mistupid.com/calendar/dayofyear.htm\n\nget day: \nhttp://www.webexhibits.org/daylightsaving/b.html"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-13",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 538.0, 23.0, 150.0, 33.0 ],
+					"style" : "",
+					"text" : "summertime switch\nDates for 2016"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-25",
 					"linecount" : 3,
 					"maxclass" : "comment",
@@ -45,7 +71,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 538.0, 126.0, 155.0, 47.0 ],
 					"style" : "",
-					"text" : "switch to summertime\n25.11 is the 297 day in the year"
+					"text" : "switch back\n30.10 is the 304 day in the year"
 				}
 
 			}
@@ -56,9 +82,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 529.0, 65.0, 150.0, 47.0 ],
+					"patching_rect" : [ 538.0, 65.0, 150.0, 47.0 ],
 					"style" : "",
-					"text" : "switch to summertime\n29.3 is the 87 day in the year"
+					"text" : "switch to summertime\n27.3 is the 87 day in the year"
 				}
 
 			}
@@ -84,7 +110,7 @@
 					"outlettype" : [ "int" ],
 					"patching_rect" : [ 486.0, 151.0, 41.0, 22.0 ],
 					"style" : "",
-					"text" : "< 297"
+					"text" : "< 304"
 				}
 
 			}
@@ -594,7 +620,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }
