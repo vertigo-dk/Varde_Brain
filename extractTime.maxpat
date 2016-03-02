@@ -38,12 +38,38 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-5",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "int" ],
+					"patching_rect" : [ 197.0, 333.0, 29.5, 22.0 ],
+					"style" : "",
+					"text" : "+ 1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-9",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 571.0, 32.0, 150.0, 60.0 ],
+					"style" : "",
+					"text" : "possibility to compensate for summertime\nwith mjx now as clock not necessary"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-21",
 					"linecount" : 7,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 539.0, 205.0, 150.0, 100.0 ],
+					"patching_rect" : [ 724.0, 194.0, 150.0, 100.0 ],
 					"style" : "",
 					"text" : "calculate day: http://mistupid.com/calendar/dayofyear.htm\n\nget day: \nhttp://www.webexhibits.org/daylightsaving/b.html"
 				}
@@ -56,7 +82,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 538.0, 23.0, 150.0, 33.0 ],
+					"patching_rect" : [ 723.0, 12.0, 150.0, 33.0 ],
 					"style" : "",
 					"text" : "summertime switch\nDates for 2016"
 				}
@@ -69,7 +95,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 538.0, 126.0, 155.0, 47.0 ],
+					"patching_rect" : [ 723.0, 115.0, 155.0, 47.0 ],
 					"style" : "",
 					"text" : "switch back\n30.10 is the 304 day in the year"
 				}
@@ -82,7 +108,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 538.0, 65.0, 150.0, 47.0 ],
+					"patching_rect" : [ 723.0, 54.0, 150.0, 47.0 ],
 					"style" : "",
 					"text" : "switch to summertime\n27.3 is the 87 day in the year"
 				}
@@ -95,7 +121,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 437.0, 187.0, 29.5, 22.0 ],
+					"patching_rect" : [ 622.0, 176.0, 29.5, 22.0 ],
 					"style" : "",
 					"text" : "||"
 				}
@@ -108,7 +134,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 486.0, 151.0, 41.0, 22.0 ],
+					"patching_rect" : [ 671.0, 140.0, 41.0, 22.0 ],
 					"style" : "",
 					"text" : "< 304"
 				}
@@ -121,7 +147,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 437.0, 151.0, 34.0, 22.0 ],
+					"patching_rect" : [ 622.0, 140.0, 34.0, 22.0 ],
 					"style" : "",
 					"text" : "> 87"
 				}
@@ -134,7 +160,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 437.0, 112.0, 37.0, 22.0 ],
+					"patching_rect" : [ 622.0, 101.0, 37.0, 22.0 ],
 					"style" : "",
 					"text" : "r day"
 				}
@@ -147,7 +173,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 441.0, 300.0, 29.5, 22.0 ],
+					"patching_rect" : [ 640.0, 289.0, 29.5, 22.0 ],
 					"style" : "",
 					"text" : "1"
 				}
@@ -160,7 +186,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 376.0, 300.0, 29.5, 22.0 ],
+					"patching_rect" : [ 604.5, 289.0, 29.5, 22.0 ],
 					"style" : "",
 					"text" : "1"
 				}
@@ -174,7 +200,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 437.0, 219.0, 24.0, 24.0 ],
+					"patching_rect" : [ 622.0, 208.0, 24.0, 24.0 ],
 					"style" : ""
 				}
 
@@ -186,7 +212,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 3,
 					"outlettype" : [ "bang", "bang", "" ],
-					"patching_rect" : [ 435.0, 263.0, 46.0, 22.0 ],
+					"patching_rect" : [ 620.0, 252.0, 46.0, 22.0 ],
 					"style" : "",
 					"text" : "sel 1 0"
 				}
@@ -225,19 +251,6 @@
 					"patching_rect" : [ 40.0, 311.0, 150.0, 20.0 ],
 					"style" : "",
 					"text" : "UTC to local time"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-5",
-					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"patching_rect" : [ 197.0, 311.0, 29.5, 22.0 ],
-					"style" : "",
-					"text" : "+ 1"
 				}
 
 			}
@@ -410,24 +423,6 @@
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-12", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-5", 1 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-14", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-5", 1 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-15", 0 ]
 				}
 
 			}
@@ -620,9 +615,7 @@
 				}
 
 			}
- ],
-		"dependency_cache" : [  ],
-		"autosave" : 0
+ ]
 	}
 
 }

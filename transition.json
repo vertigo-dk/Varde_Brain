@@ -1,6 +1,6 @@
 {
 	"pattrstorage" : 	{
-		"name" : "u171000573",
+		"name" : "u284003167",
 		"slots" : 		{
 			"10" : 			{
 				"id" : 10,
@@ -191,6 +191,60 @@
 
 			}
 ,
+			"31" : 			{
+				"id" : 31,
+				"data" : 				{
+					"colorTopTop" : [ 0, 75, 255, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 120, 67, 255 ],
+					"colorBotTop" : [ 0, 251, 107, 234 ],
+					"colorBotBot" : [ 0, 0, 0, 131 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.7 ],
+					"posHWaveRamp[1]" : [ 0.7 ],
+					"noiseAmt" : [ 0.16 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"32" : 			{
+				"id" : 32,
+				"data" : 				{
+					"colorTopTop" : [ 0, 75, 255, 59 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 120, 67, 68 ],
+					"colorBotTop" : [ 0, 251, 107, 149 ],
+					"colorBotBot" : [ 0, 0, 0, 131 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 255, 0 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.7 ],
+					"posHWaveRamp[1]" : [ 0.7 ],
+					"noiseAmt" : [ 0.16 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
 			"40" : 			{
 				"id" : 40,
 				"data" : 				{
@@ -299,6 +353,60 @@
 
 			}
 ,
+			"51" : 			{
+				"id" : 51,
+				"data" : 				{
+					"colorTopTop" : [ 255, 0, 0, 91 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 0, 0, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 46 ],
+					"colorBotBot" : [ 255, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 255 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 1.0 ]
+				}
+
+			}
+,
+			"52" : 			{
+				"id" : 52,
+				"data" : 				{
+					"colorTopTop" : [ 255, 0, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 0, 0, 123 ],
+					"colorBotTop" : [ 0, 0, 0, 46 ],
+					"colorBotBot" : [ 255, 0, 0, 134 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 255 ],
+					"dLinesSpeed" : [ 0.085 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.77 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 1.0 ]
+				}
+
+			}
+,
 			"60" : 			{
 				"id" : 60,
 				"data" : 				{
@@ -326,6 +434,60 @@
 
 			}
 ,
+			"61" : 			{
+				"id" : 61,
+				"data" : 				{
+					"colorTopTop" : [ 255, 113, 0, 128 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 255, 0, 255 ],
+					"colorBotTop" : [ 0, 205, 255, 255 ],
+					"colorBotBot" : [ 0, 0, 255, 126 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 0 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.25 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9375 ]
+				}
+
+			}
+,
+			"62" : 			{
+				"id" : 62,
+				"data" : 				{
+					"colorTopTop" : [ 255, 113, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 255, 0, 0 ],
+					"colorBotTop" : [ 0, 205, 255, 140 ],
+					"colorBotBot" : [ 0, 0, 255, 27 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 0 ],
+					"dLinesSpeed" : [ 0.21 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.25 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.9375 ]
+				}
+
+			}
+,
 			"70" : 			{
 				"id" : 70,
 				"data" : 				{
@@ -349,6 +511,60 @@
 					"posHWaveRamp[1]" : [ 0.0 ],
 					"noiseAmt" : [ 0.08 ],
 					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"71" : 			{
+				"id" : 71,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 255, 219, 255 ],
+					"colorBotTop" : [ 255, 255, 219, 170 ],
+					"colorBotBot" : [ 0, 0, 0, 0 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 218, 255 ],
+					"dLinesSpeed" : [ 0.59 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.92 ],
+					"posHWaveRamp[1]" : [ 0.76 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.5175 ]
+				}
+
+			}
+,
+			"72" : 			{
+				"id" : 72,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 255, 219, 104 ],
+					"colorBotTop" : [ 255, 255, 219, 59 ],
+					"colorBotBot" : [ 0, 0, 0, 0 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 255, 255, 218, 134 ],
+					"dLinesSpeed" : [ 0.155 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.92 ],
+					"posHWaveRamp[1]" : [ 0.76 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 0.5175 ]
 				}
 
 			}
@@ -461,6 +677,60 @@
 
 			}
 ,
+			"91" : 			{
+				"id" : 91,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 255, 110 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 174, 0, 255 ],
+					"colorBotTop" : [ 255, 178, 0, 252 ],
+					"colorBotBot" : [ 0, 0, 255, 110 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 0 ],
+					"dLinesSpeed" : [ 0.455 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.5 ],
+					"posHWaveRamp[1]" : [ 0.63 ],
+					"noiseAmt" : [ 0.3 ],
+					"dLinesSync" : [ 1.0 ]
+				}
+
+			}
+,
+			"92" : 			{
+				"id" : 92,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 255, 110 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 255, 174, 0, 0 ],
+					"colorBotTop" : [ 255, 178, 0, 0 ],
+					"colorBotBot" : [ 0, 0, 255, 110 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 0 ],
+					"dLinesSpeed" : [ 0.455 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.5 ],
+					"posHWaveRamp[1]" : [ 0.63 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 1.0 ]
+				}
+
+			}
+,
 			"100" : 			{
 				"id" : 100,
 				"data" : 				{
@@ -488,6 +758,60 @@
 
 			}
 ,
+			"101" : 			{
+				"id" : 101,
+				"data" : 				{
+					"colorTopTop" : [ 0, 255, 189, 96 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 158, 255, 255 ],
+					"colorBotTop" : [ 0, 0, 0, 10 ],
+					"colorBotBot" : [ 0, 0, 0, 10 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 255, 182, 255 ],
+					"dLinesSpeed" : [ 0.12 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.5 ],
+					"posHWaveRamp[1]" : [ 0.63 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 1.0 ]
+				}
+
+			}
+,
+			"102" : 			{
+				"id" : 102,
+				"data" : 				{
+					"colorTopTop" : [ 0, 255, 189, 0 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 158, 255, 104 ],
+					"colorBotTop" : [ 0, 0, 0, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 255, 182, 0 ],
+					"dLinesSpeed" : [ 0.12 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.5 ],
+					"posHWaveRamp[1]" : [ 0.63 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [ 1.0 ]
+				}
+
+			}
+,
 			"110" : 			{
 				"id" : 110,
 				"data" : 				{
@@ -511,6 +835,60 @@
 					"posHWaveRamp[1]" : [ 0.0 ],
 					"noiseAmt" : [ 0.08 ],
 					"dLinesSync" : [ 0.9 ]
+				}
+
+			}
+,
+			"111" : 			{
+				"id" : 111,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 255, 66, 255 ],
+					"colorBotTop" : [ 0, 255, 65, 255 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 0 ],
+					"dLinesSpeed" : [ 0.12 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.19 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
+				}
+
+			}
+,
+			"112" : 			{
+				"id" : 112,
+				"data" : 				{
+					"colorTopTop" : [ 0, 0, 0, 255 ],
+					"blinkIntensity" : [ 0.0 ],
+					"blinkTempo" : [ 0.005 ],
+					"boubblesIntensity" : [ 0.0 ],
+					"boubblesVelMin" : [ 0.2 ],
+					"boubblesVelMax" : [ 1.5 ],
+					"colorTopBot" : [ 0, 255, 66, 87 ],
+					"colorBotTop" : [ 0, 255, 65, 87 ],
+					"colorBotBot" : [ 0, 0, 0, 255 ],
+					"colorLine" : [ 255, 255, 255, 255 ],
+					"colorBlink" : [ 255, 255, 255, 255 ],
+					"colorBoubbles" : [ 255, 255, 255, 255 ],
+					"colordLines" : [ 0, 0, 0, 0 ],
+					"dLinesSpeed" : [ 0.12 ],
+					"posHLinePoles[1]" : [ 2.0 ],
+					"posHLineRamp[1]" : [ 2.0 ],
+					"posHWavePoles[1]" : [ 0.19 ],
+					"posHWaveRamp[1]" : [ 0.77 ],
+					"noiseAmt" : [ 0.08 ],
+					"dLinesSync" : [  ]
 				}
 
 			}
