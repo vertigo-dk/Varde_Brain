@@ -3,13 +3,13 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 7,
-			"minor" : 0,
-			"revision" : 6,
+			"minor" : 1,
+			"revision" : 0,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 219.0, 79.0, 1081.0, 926.0 ],
+		"rect" : [ 291.0, 128.0, 889.0, 501.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -58,7 +58,6 @@
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 105.0, 123.0, 24.0, 24.0 ],
-					"presentation_rect" : [ 102.0, 122.0, 0.0, 0.0 ],
 					"style" : ""
 				}
 
@@ -71,7 +70,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 105.0, 156.0, 57.0, 22.0 ],
-					"presentation_rect" : [ 102.0, 155.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "255 2 $1"
 				}
@@ -84,7 +82,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "int" ],
 					"patching_rect" : [ 51.0, 109.0, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -123,7 +121,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 37.0, 222.0, 160.0, 20.0 ],
-					"presentation_rect" : [ 219.0, 209.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "\"FF 01 00'\" turns off Relay 1"
 				}
@@ -178,9 +175,9 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 13.0, 298.0, 336.0, 23.0 ],
+					"patching_rect" : [ 13.0, 298.0, 449.0, 23.0 ],
 					"style" : "",
-					"text" : "serial e @baud 9600 @databits 8 @stopbits 1 @parity 0"
+					"text" : "serial usbserial-A602U0ML @baud 9600 @databits 8 @stopbits 1 @parity 0"
 				}
 
 			}
@@ -249,7 +246,7 @@
 					"destination" : [ "obj-28", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 339.5, 330.5, 220.5, 330.5 ],
+					"midpoints" : [ 452.5, 330.5, 220.5, 330.5 ],
 					"source" : [ "obj-37", 1 ]
 				}
 
@@ -281,9 +278,7 @@
 				}
 
 			}
- ],
-		"dependency_cache" : [  ],
-		"embedsnapshot" : 0
+ ]
 	}
 
 }
